@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Y4ruxi
-- Im Currently writing my master thesis.
+- Im Currently teaching IT and Economics.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...GitHub, KI, Kotlin
 - 💞️ I’m looking to collaborate on ...
